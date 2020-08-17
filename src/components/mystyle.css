@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap" rel="stylesheet');
+/*@font-face{
+    font-family: 'Gloria Hallelujah', cursive;
+    src:url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap" rel="stylesheet');
+}*/
+.heading{
+    color: green;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 60px;
+}
+.bclass{
+    background-color: brown;
+    color:white;
+    padding:15px 15px;
+    margin: 10px 10px;
+    border:none;
+    height: 60px;
+    width: 180px;
+    font-size: 18px;
+}
+.dropdown{
+    padding:15px 15px;
+    margin: 20px 10px;
+}
+element.style {
+    width: 185px !important;
+    height: 80px !important;
+}
+
+.input-group {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 40% !important;
+    left: 470px !important;
+    margin:40px !important;
+    align: center;
+}
+.internalheading{
+    position: absolute;
+    left: 510px;
+}
+.btn1,.btn2{
+    background-color:brown;
+    color:white;
+    border:0;
+    margin:10px;
+    position: relative;
+    left:260px;
+}
+.multibtn{
+    width: 38%;
+    position: relative;
+    left: 40px;
+    margin:40px;
+    align: center;
+}
+.input1{
+    width:40%;
+    position: relative;
+    left: 500px;
+    border: 1px solid black;
+    
+}
+.questioncss{
+    width: 38%;
+    margin:10px;
+}
+.optioncss
+{
+    width: 35%;
+
+}
+.btn1,.btn2{
+    background-color:brown;
+    color:white;
+    border:0;
+    margin:10px;
+    position: relative;
+    left:210px;
+    padding:8px;
+}
+
+
